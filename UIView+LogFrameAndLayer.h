@@ -26,6 +26,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <QuartzCore/CALayer.h>
 
 @interface UIView (LogFrameAndLayer)
 
